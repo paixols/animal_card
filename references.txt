@@ -1,0 +1,12 @@
+//Image overlay reference guide 
+https://www.w3docs.com/snippets/css/how-to-position-one-image-on-top-of-another-in-html-css.html
+//Linear Gradient playground
+https://www.w3schools.com/csSref/tryit.asp?filename=trycss3_gradient-linear
+//Color Codes
+https://html-color.codes/css/lightgrey
+//Remove Hiperlink Blue Text Color
+https://stackoverflow.com/questions/6722467/how-do-i-remove-the-default-link-color-of-the-html-hyperlink-a-tag
+//Xoloitzcuintle Information
+http://www.fci.be/Nomenclature/Standards/234g05-en.pdf
+//Icons
+https://icon-icons.com/

@@ -1,0 +1,90 @@
+/*Global Container*/
+.shadowbox {
+  width: 300px;
+  padding: 8px 12px;
+  border: 1px solid #ebebeb;
+  box-shadow: 8px 8px 5px #ebebeb;
+  background-color: #ffff;
+}
+/*Title*/
+a {
+  color: inherit;
+}
+/*Images*/
+#img_container {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#img_animal {
+  width: 300px;
+  height: 300px;
+  padding: 1px;
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px hidden transparent;
+}
+#img_flag {
+  border-radius: 5px;
+  width: 70px;
+  height: 50px;
+  padding: 1px;
+  position: absolute;
+  top: 245px;
+  right: 10px;
+}
+/*Flag Detail*/
+#flag_detail_container {
+  display: flex;
+  align-items: stretch;
+  border: 1px solid #ebebeb;
+  margin-bottom: 10px;
+  padding: 1px;
+}
+#flag_detail_0 {
+  height: 3px;
+  width: 100px;
+  padding: 1px;
+  background-color: green;
+}
+#flag_detail_1 {
+  height: 3px;
+  width: 100px;
+  padding: 1px;
+  background-color: white;
+}
+#flag_detail_2 {
+  height: 3px;
+  width: 100px;
+  padding: 1px;
+  background-color: red;
+}
+/*Description Container*/
+#description {
+  border: 1px solid #ebebeb;
+  margin-top: 5px;
+  padding: 10px;
+}
+p {
+  text-align: left;
+  padding: 1px;
+}
+p em {
+  font: italic normal normal 14px "Roboto", "monospace";
+}
+li span {
+  font: normal normal bold 14px "Roboto", "monospace";
+}
+ul {
+  list-style-type: none;
+  display: inline;
+}
+/*Title*/
+h3 {
+  font: normal normal bold 24px "Roboto", "monospace";
+  text-shadow: 8px 8px 5px #dbdbdb;
+  text-decoration: underline;
+  border: 1px hidden transparent;
+  padding: 1px;
+}
